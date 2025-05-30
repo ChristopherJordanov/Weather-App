@@ -8,11 +8,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.imgur.com/p3XChWl.png" alt="project-screenshot" width="2500" height="700/">
-
-<img src="https://i.imgur.com/x5NwBCO.png" alt="project-screenshot" width="2500" height="700/">
-
-<img src="https://i.imgur.com/ZQC5bav.png" alt="project-screenshot" width="2500" height="700/">
+<table>
+  <tr>
+    <td><img src="https://i.imgur.com/p3XChWl.png" width="300"/></td>
+    <td><img src="https://i.imgur.com/x5NwBCO.png" width="300"/></td>
+    <td><img src="https://i.imgur.com/ZQC5bav.png" width="300"/></td>
+  </tr>
+</table>
 
   
   
