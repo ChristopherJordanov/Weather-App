@@ -31,31 +31,29 @@ Here're some of the project's best features:
 
 <p>2. A free OpenWeatherMap API key</p>
 
-<p>3. # 1. Clone the repo</p>
+<p>3. Clone the repo</p>
 
 ```
 $ git clone https://github.com/your‑username/weather‑app.git | $ cd weather‑app
 ```
 
-<p>4. # 2. Install dependencies</p>
+<p>4. Install dependencies</p>
 
 ```
 $ pip install -r requirements.txt
 ```
 
-<p>5. # 3. Add your API key</p>
+<p>5. Add your API key</p>
 
 ```
 $ cp .env.example .env   # then edit .env and paste your key
 ```
 
-<p>6. # 4. Run locally</p>
+<p>6. Run locally</p>
 
 ```
 $ streamlit run app.py
 ```
-
-<h2>🍰 Contribution Guidelines:</h2>
 
   
   
