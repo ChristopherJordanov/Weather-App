@@ -10,9 +10,9 @@
 
 <table>
   <tr>
-    <td><img src="https://i.imgur.com/p3XChWl.png" width="300"/></td>
-    <td><img src="https://i.imgur.com/x5NwBCO.png" width="300"/></td>
-    <td><img src="https://i.imgur.com/ZQC5bav.png" width="300"/></td>
+    <td><img src="https://i.imgur.com/p3XChWl.png" width="600"/></td>
+    <td><img src="https://i.imgur.com/x5NwBCO.png" width="600"/></td>
+    <td><img src="https://i.imgur.com/ZQC5bav.png" width="600"/></td>
   </tr>
 </table>
 
