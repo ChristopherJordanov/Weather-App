@@ -134,7 +134,7 @@ if current_weather_url and forecast_url:
                 w, x = st.columns([1, 2])
                 y, z = st.columns(2)
                 temp_to_color(w, forecast_temp)
-                x.metric(f"Sky description", f"{forecast_sky_descgit }", delta='Sky description', delta_color='off', border=True, label_visibility='hidden')
+                x.metric(f"Sky description", f"{forecast_sky_desc}", delta='Sky description', delta_color='off', border=True, label_visibility='hidden')
                 y.metric(f"Humidity", f"{forecast_humidity} %", border=True)
                 z.metric(f"Wind speed", f"{current_wind_spd} {'m/s' if units == 'metric' else 'mph'}", border=True)
 
