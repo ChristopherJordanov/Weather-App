@@ -4,8 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://openweatherapp.streamlit.app](https://openweatherapp.streamlit.app)
-<a href="https://openweatherapp.streamlit.app" target="_blank"></a> 
+<a href="https://openweatherapp.streamlit.app" target="_blank">Link to the weather app</a> 
 
 <h2>Project Screenshots:</h2>
 
