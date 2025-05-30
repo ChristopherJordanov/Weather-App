@@ -5,6 +5,7 @@
 <h2>🚀 Demo</h2>
 
 [https://openweatherapp.streamlit.app](https://openweatherapp.streamlit.app)
+<a href="https://openweatherapp.streamlit.app" target="_blank"></a> 
 
 <h2>Project Screenshots:</h2>
 
