@@ -64,4 +64,18 @@ $ streamlit run app.py
 Technologies used in the project:
 
 *   Python
+  
 *   Streamlit
+
+<h2> 🧠 What I Learned </h2>
+*   Making authenticated API calls and handling JSON responses
+
+*   Parsing and structuring data for visualisation
+
+*   Building responsive layouts in Streamlit with columns and custom HTML/CSS
+
+*   Data visualisation with matplotlib / Plotly inside Streamlit
+
+*   Environment variables and secret handling in deployed apps
+
+*   Cloud deployment & CI basics with Streamlit Community Cloud
