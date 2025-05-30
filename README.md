@@ -68,6 +68,7 @@ Technologies used in the project:
 *   Streamlit
 
 <h2> 🧠 What I Learned </h2>
+
 *   Making authenticated API calls and handling JSON responses
 
 *   Parsing and structuring data for visualisation
